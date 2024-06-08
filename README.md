@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I am Alberto</h1>
+<h3 align="center">An aspirant Full Stack Web Developer from Rome, Italy 🇮🇹</h3>
+<br>
 
-<!--
-**bertcoscia/bertcoscia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🗣️ I speak: 🇬🇧**English** 🇮🇹**Italian** 🇪🇸**Spanish** 🇫🇷**French** and I am currently studying 🇷🇺**Russian**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Front-end & Back-end development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [https://github.com/bertcoscia](https://github.com/bertcoscia)
+
+- 📫 How to reach me **angeloalberto.coscia@gmail.com**
+
+- ⚡ Fun fact **I am a Lord of the Rings lover 🧙🏼‍♂️**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/angelo-alberto-coscia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelo-alberto-coscia" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bertcoscia&hide_progress=true)
