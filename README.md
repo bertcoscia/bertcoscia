@@ -26,6 +26,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="redux" width="40" height="40"/>
 </p>
 <h3 align="left">Back-End</h3>
 <p align="left">
