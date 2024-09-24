@@ -4,8 +4,6 @@
 
 - 🗣️ I speak: 🇬🇧**English** 🇮🇹**Italian** 🇪🇸**Spanish** 🇫🇷**French** and I am currently studying 🇷🇺**Russian**
 
-- 🌱 I’m currently learning **Front-end & Back-end development**
-
 - 👨‍💻 All of my projects are available at [https://github.com/bertcoscia](https://github.com/bertcoscia)
 
 - 📫 How to reach me **angeloalberto.coscia@gmail.com**
