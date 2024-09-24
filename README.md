@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I am Alberto</h1>
-<h3 align="center">An aspirant Full Stack Web Developer from Rome, Italy 🇮🇹</h3>
+<h3 align="center">An aspirant Back-End Developer from Rome, Italy 🇮🇹</h3>
 <br>
 
 - 🗣️ I speak: 🇬🇧**English** 🇮🇹**Italian** 🇪🇸**Spanish** 🇫🇷**French** and I am currently studying 🇷🇺**Russian**
