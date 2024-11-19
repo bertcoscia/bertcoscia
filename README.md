@@ -4,6 +4,8 @@
 
 - 🗣️ I speak: 🇬🇧**English** 🇮🇹**Italian** 🇪🇸**Spanish** 🇫🇷**French** and I am currently studying 🇷🇺**Russian**
 
+- 🌱 I’m currently learning **Python & Django**  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+
 - 👨‍💻 All of my projects are available at [https://github.com/bertcoscia](https://github.com/bertcoscia)
 
 - 📫 How to reach me **angeloalberto.coscia@gmail.com**
